@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_tasks.png",
+        "source": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_tasks.png"
+    },
+    {
+        "merged": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_new_location.png",
+        "source": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_new_location.png"
+    },
+    {
+        "merged": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_about.png",
+        "source": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_about.png"
+    },
+    {
+        "merged": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_new_task.png",
+        "source": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_new_task.png"
+    },
+    {
+        "merged": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_location.png",
+        "source": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_location.png"
+    },
+    {
+        "merged": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_menu_setting.png",
+        "source": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu_setting.png"
+    }
+]

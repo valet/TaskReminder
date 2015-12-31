@@ -1,0 +1,14 @@
+C:\Users\terva_000\AndroidStudioProjects\TaskReminder\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tervalet\taskreminder\R$override.class
+C:\Users\terva_000\AndroidStudioProjects\TaskReminder\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tervalet\taskreminder\R$drawable$override.class
+C:\Users\terva_000\AndroidStudioProjects\TaskReminder\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tervalet\taskreminder\R$integer$override.class
+C:\Users\terva_000\AndroidStudioProjects\TaskReminder\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tervalet\taskreminder\R$mipmap$override.class
+C:\Users\terva_000\AndroidStudioProjects\TaskReminder\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tervalet\taskreminder\MainActivity$override.class
+C:\Users\terva_000\AndroidStudioProjects\TaskReminder\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tervalet\taskreminder\R$styleable$override.class
+C:\Users\terva_000\AndroidStudioProjects\TaskReminder\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tervalet\taskreminder\R$menu$override.class
+C:\Users\terva_000\AndroidStudioProjects\TaskReminder\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tervalet\taskreminder\R$string$override.class
+C:\Users\terva_000\AndroidStudioProjects\TaskReminder\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\design\R$drawable$override.class
+C:\Users\terva_000\AndroidStudioProjects\TaskReminder\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tervalet\taskreminder\R$id$override.class
+C:\Users\terva_000\AndroidStudioProjects\TaskReminder\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tervalet\taskreminder\R$style$override.class
+C:\Users\terva_000\AndroidStudioProjects\TaskReminder\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\tervalet\taskreminder\R$layout$override.class
+C:\Users\terva_000\AndroidStudioProjects\TaskReminder\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$drawable$override.class
+C:\Users\terva_000\AndroidStudioProjects\TaskReminder\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

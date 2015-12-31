@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_about.xml",
+        "source": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_tasks.xml",
+        "source": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_tasks.xml"
+    },
+    {
+        "merged": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_setting.xml",
+        "source": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_new_task.xml",
+        "source": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_new_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_location.xml",
+        "source": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_menu_new_location.xml",
+        "source": "C:\\Users\\terva_000\\AndroidStudioProjects\\TaskReminder\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_new_location.xml"
+    }
+]
